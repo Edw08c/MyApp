@@ -26,7 +26,7 @@ public class Actividad2 extends AppCompatActivity implements View.OnClickListene
                 if (checkedId == R.id.radioButton1) {
                     Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 1", Toast.LENGTH_SHORT).show();
                 } else if (checkedId == R.id.radioButton2){
-                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 2", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Usted Oprimio el boton2", Toast.LENGTH_SHORT).show();
                 } else if (checkedId == R.id.radioButton3) {
                     Toast.makeText(getApplicationContext(),"Usted Oprimio el boton 3", Toast.LENGTH_SHORT).show();
                 } else if (checkedId == R.id.radioButton4) {
